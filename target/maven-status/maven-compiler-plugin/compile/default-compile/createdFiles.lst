@@ -1,0 +1,6 @@
+net\alice\contactmanager\domain\Contact.class
+net\alice\contactmanager\dao\ContactDAOImpl.class
+net\alice\contactmanager\web\ContactController.class
+net\alice\contactmanager\service\ContactService.class
+net\alice\contactmanager\service\ContactServiceImpl.class
+net\alice\contactmanager\dao\ContactDAO.class
